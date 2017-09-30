@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_escuela"
+        android:textSize="27dp"
+        android:textColor="#000000"
+        android:paddingLeft="40dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_materia"
+        android:textSize="26dp"
+        android:textColor="#000000"
+        android:paddingLeft="23dp"
+        android:layout_marginTop="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_profesor"
+        android:textSize="26dp"
+        android:textColor="#000000"
+        android:paddingLeft="57dp"
+        android:layout_marginTop="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_aplicacion"
+        android:textSize="26dp"
+        android:textColor="#000000"
+        android:paddingLeft="140dp"
+        android:layout_marginTop="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_nombre"
+        android:textSize="26dp"
+        android:textColor="#000000"
+        android:paddingLeft="45dp"
+        android:layout_marginTop="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_fecha"
+        android:textSize="26dp"
+        android:textColor="#000000"
+        android:paddingLeft="35dp"
+        android:layout_marginTop="30dp"
+        />
+
+</LinearLayout>

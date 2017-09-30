@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="texto_agregar_platillo">Agregar platillo</string>
+    <string name="texto_mostrar_orden">Mostrar orden</string>
+    <string name="texto_escuela">Universidad Tecnológica del Norte de Guanajuato</string>
+    <string name="texto_materia">Desarrollo de aplicaciones ll</string>
+    <string name="texto_profesor">Apolinar Trejo Cuevas</string>
+    <string name="texto_aplicacion">Menú</string>
+    <string name="texto_nombre">Cristóbal Olvera Deanda</string>
+    <string name="texto_fecha">29 de Septiembre de 2017</string>
+    <string name="texto_creditos">Creditos</string>
+    <string-array name="menus">
+        <item> Desayuno</item>
+        <item> Comida</item>
+        <item> Cena</item>
+
+    </string-array>
+    <string-array name="menu_disponible">
+        <item>Huevos a la mexicana</item>
+        <item>Chilaquiles</item>
+        <item>Juego de Naranja</item>
+        <item>Coctel de frutas</item>
+        <item>Hotcakes</item>
+        <item>Crepas</item>
+
+    </string-array>
+</resources>
